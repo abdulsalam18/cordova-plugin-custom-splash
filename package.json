@@ -1,0 +1,10 @@
+{
+  "name": "cordova-plugin-custom-splash",
+  "version": "1.0.0",
+  "description": "Custom full-screen splash screen plugin for Cordova",
+  "cordova": {
+    "id": "cordova-plugin-custom-splash",
+    "platforms": ["android"]
+  },
+  "keywords": ["cordova", "splashscreen", "android"]
+}
